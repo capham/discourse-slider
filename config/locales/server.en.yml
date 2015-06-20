@@ -1,0 +1,4 @@
+en:
+  site_settings:
+    sidebar_content: "html content for the slider"
+    enable_sidebar: "Show slider on the main screen"
