@@ -3,4 +3,4 @@ ru:
     admin:
       site_settings:
         categories:
-          sidebar_settings: 'Cấu hình slider'
+          slider_settings: 'Cấu hình slider'

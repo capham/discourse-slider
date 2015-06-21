@@ -3,4 +3,4 @@ en:
     admin:
       site_settings:
         categories:
-          sidebar_settings: 'Sidebar Settings'
+          slider_settings: 'Slider Settings'

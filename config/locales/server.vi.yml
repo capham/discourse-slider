@@ -1,4 +1,4 @@
 ru:
   site_settings:
-    sidebar_content: "html"
-    enable_sidebar: "Hiển thị ngoài trang chủ"
+    slider_content: "html"
+    enable_slider: "Hiển thị ngoài trang chủ"
